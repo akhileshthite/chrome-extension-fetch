@@ -1,0 +1,27 @@
+{
+  "name": "chrome-extension-fetch",
+  "version": "1.0.0",
+  "description": "A utility to download Chrome extensions as CRX or ZIP.",
+  "main": "index.js",
+  "bin": {
+    "chrome-extension-fetch": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chrome-extension-fetch",
+    "chrome",
+    "extension",
+    "crx",
+    "zip",
+    "downloader",
+    "chrome-web-store"
+  ],
+  "author": "Akhilesh Thite",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhileshthite/chrome-extension-fetch"
+  }
+}
